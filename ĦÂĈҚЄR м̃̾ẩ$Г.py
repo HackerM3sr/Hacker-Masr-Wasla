@@ -9,6 +9,11 @@ print ("\033[1;38m| |__   __ _  ___| | _____ _ __   _ __ ___   __ _ ___ _ __")
 |_| |_|\__,_|\___|_|\_\___|_|    |_| |_| |_|\__,_|___/_|'''
 print(logo)
 
+print ("HACKER MASR")
+
+print('Wait Hack')
+
+time.sleep(10)
 
 
 headers ={'Content-type': 'application/json; charset=UTF-8',
