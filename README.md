@@ -1,2 +1,1 @@
-# Hacker-Masr-Wasla
-هو عبارة عن اسكربت بصيت من برمجة فريق Hacker Masr سوف ينول اعجابك
+Peace be upon you, followers of Qenaux, Egypt. How are you doing today? I present to you my own script from my programming. I am in the Python language and it is hacking the points of the Wasla program. It is really great.
